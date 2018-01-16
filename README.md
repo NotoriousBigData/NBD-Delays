@@ -15,3 +15,7 @@ Para poder ejecutar los Scripts, antes han de haberse descargado el data-set des
     
  - Dentro de la carpeta de Spark, acceder al directorio /bin y ejecutar el siguiente comando:
 	**./spark-submit  "nombreScript"**
+## Presentación
+https://prezi.com/view/6warzWL4fjVbt2uvP7xo/
+## Web
+https://notoriousbigdata.github.io/
